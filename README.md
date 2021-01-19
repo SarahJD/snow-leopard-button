@@ -1,4 +1,4 @@
-#Snow Leopard Button
+# Snow Leopard Button
 
 This is a tiny spin-off of the [Hidden Search Widget](https://github.com/SarahJD/hidden-search-widget):
 
